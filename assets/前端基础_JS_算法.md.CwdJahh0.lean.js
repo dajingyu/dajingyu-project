@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.By8LAshg.js";const F=JSON.parse('{"title":"算法","description":"","frontmatter":{},"headers":[],"relativePath":"前端基础/JS/算法.md","filePath":"前端基础/JS/算法.md"}'),h={name:"前端基础/JS/算法.md"},k=n("",8),t=[k];function l(p,E,e,r,d,g){return a(),i("div",null,t)}const c=s(h,[["render",l]]);export{F as __pageData,c as default};

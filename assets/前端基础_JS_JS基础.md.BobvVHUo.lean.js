@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.By8LAshg.js";const o=JSON.parse('{"title":"js","description":"","frontmatter":{},"headers":[],"relativePath":"前端基础/JS/JS基础.md","filePath":"前端基础/JS/JS基础.md"}'),h={name:"前端基础/JS/JS基础.md"},l=n("",66),k=[l];function t(p,e,E,r,d,g){return a(),i("div",null,k)}const c=s(h,[["render",t]]);export{o as __pageData,c as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,a1 as t}from"./chunks/framework.DDqzfET5.js";const u=JSON.parse('{"title":"离线存储","description":"","frontmatter":{},"headers":[],"relativePath":"前端基础/HTML/离线存储.md","filePath":"前端基础/HTML/离线存储.md"}'),i={name:"前端基础/HTML/离线存储.md"},l=t("",7),r=[l];function s(c,n,_,h,p,d){return o(),a("div",null,r)}const g=e(i,[["render",s]]);export{u as __pageData,g as default};

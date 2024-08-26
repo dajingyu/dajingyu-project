@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.DDqzfET5.js";const F=JSON.parse('{"title":"算法","description":"","frontmatter":{},"headers":[],"relativePath":"前端基础/JS/算法.md","filePath":"前端基础/JS/算法.md"}'),h={name:"前端基础/JS/算法.md"},k=n("",6),l=[k];function t(p,E,e,r,d,g){return a(),i("div",null,l)}const c=s(h,[["render",t]]);export{F as __pageData,c as default};

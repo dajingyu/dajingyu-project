@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,a2 as t}from"./chunks/framework.By8LAshg.js";const u=JSON.parse('{"title":"离线存储","description":"","frontmatter":{},"headers":[],"relativePath":"前端基础/HTML/离线存储.md","filePath":"前端基础/HTML/离线存储.md"}'),i={name:"前端基础/HTML/离线存储.md"},l=t("",11),r=[l];function s(c,n,h,p,g,d){return o(),a("div",null,r)}const S=e(i,[["render",s]]);export{u as __pageData,S as default};

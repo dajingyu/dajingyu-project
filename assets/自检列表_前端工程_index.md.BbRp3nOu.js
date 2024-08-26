@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.By8LAshg.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"自检列表/前端工程/index.md","filePath":"自检列表/前端工程/index.md"}'),n={name:"自检列表/前端工程/index.md"};function r(o,s,c,d,i,p){return a(),t("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};
