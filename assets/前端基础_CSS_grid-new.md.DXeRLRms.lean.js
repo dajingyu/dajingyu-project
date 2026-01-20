@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.DYBsrYGD.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"前端基础/CSS/grid-new.md","filePath":"前端基础/CSS/grid-new.md"}'),a={name:"前端基础/CSS/grid-new.md"};function n(o,s,c,d,i,p){return r(),t("div")}const f=e(a,[["render",n]]);export{m as __pageData,f as default};

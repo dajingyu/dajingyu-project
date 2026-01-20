@@ -1,0 +1,1 @@
+import{_ as s,c as l,o as a,ae as p}from"./chunks/framework.DYBsrYGD.js";const c=JSON.parse('{"title":"面试关键词","description":"","frontmatter":{},"headers":[],"relativePath":"面试/关键词.md","filePath":"面试/关键词.md"}'),e={name:"面试/关键词.md"};function n(t,i,h,r,k,d){return a(),l("div",null,[...i[0]||(i[0]=[p("",51)])])}const u=s(e,[["render",n]]);export{c as __pageData,u as default};

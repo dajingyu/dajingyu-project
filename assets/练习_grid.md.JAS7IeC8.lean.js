@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as h}from"./chunks/framework.DYBsrYGD.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"练习/grid.md","filePath":"练习/grid.md"}'),k={name:"练习/grid.md"};function l(p,s,t,E,e,d){return n(),a("div",null,[...s[0]||(s[0]=[h("",11)])])}const y=i(k,[["render",l]]);export{g as __pageData,y as default};
